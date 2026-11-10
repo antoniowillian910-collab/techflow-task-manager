@@ -1,8 +1,10 @@
 # TechFlow-Solutions
+
+> **Autor:** Willian
+
 Sistema web de gerenciamento de tarefas com metodologia ágil, Kanban e CI com GitHub Actions
 
-
-# TechFlow Solutions: Sistema de Gerenciamento de Tarefas
+## TechFlow Solutions: Sistema de Gerenciamento de Tarefas
 
 ## Objetivo
 Sistema web para a startup de logística acompanhar o fluxo de trabalho,
